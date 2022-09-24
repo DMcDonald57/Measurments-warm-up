@@ -1,0 +1,32 @@
+body > p{
+    margin: 1cm;
+}
+#one{
+    width: 50cm;
+}
+
+#two{
+width: 2rem;
+margin-left: 50%;
+}
+
+#three {
+width: 6in;
+}
+
+#four{
+
+    width: 60%;
+}
+
+#five{ 
+width: 4rem;
+}
+
+#six{
+    width: 6in;
+}
+
+span{
+    font-size: 50px;
+}
